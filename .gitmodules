@@ -4,4 +4,4 @@
 	branch = HEAD
 [submodule "estar"]
 	path = estar
-	url = https://github.com/cran/estar
+	url = https://github.com/ludmillafigueiredo/estar
